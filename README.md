@@ -1,6 +1,12 @@
 # UtilHub - Central Utility Dashboard
 # UTILITHUB
 ![UtilHub Logo](logo.png)
+
+
+
+
+
+
 A GUI application for running utility scripts with a terminal-like output interface.
 
 ## Features
