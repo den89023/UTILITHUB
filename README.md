@@ -1,5 +1,5 @@
 # UtilHub - Central Utility Dashboard
-# UTILITHUB
+# UTILHUB
 ![UtilHub Logo](logo.png)
 
 
