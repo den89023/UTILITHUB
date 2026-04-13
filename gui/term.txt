@@ -1,0 +1,14 @@
+╔══════════════════════════════════════════╗
+║                UTILHUB                   ║
+╟──────────────────────────────────────────╢
+║  Author: den89023                        ║
+║  Year: 2026                              ║
+║  License: GNU GPL v3 (since 2007)        ║
+╚══════════════════════════════════════════╝[11:20:23] [COLOR:blue]What is 2+2?[/COLOR]
+
+[COLOR:white]> User: 6[/COLOR]
+[11:20:32] [COLOR:red]Incorrect. The answer is 4.[/COLOR]
+[11:20:38] [COLOR:blue]What is 2+2?[/COLOR]
+
+[COLOR:white]> User: 4[/COLOR]
+[11:20:42] [COLOR:green]Correct![/COLOR]
