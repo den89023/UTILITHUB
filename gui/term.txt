@@ -4,11 +4,22 @@
 ║  Author: den89023                        ║
 ║  Year: 2026                              ║
 ║  License: GNU GPL v3 (since 2007)        ║
-╚══════════════════════════════════════════╝[11:20:23] [COLOR:blue]What is 2+2?[/COLOR]
+╚══════════════════════════════════════════╝[17:11:59] [COLOR:blue]What is 2+2?[/COLOR]
 
-[COLOR:white]> User: 6[/COLOR]
-[11:20:32] [COLOR:red]Incorrect. The answer is 4.[/COLOR]
-[11:20:38] [COLOR:blue]What is 2+2?[/COLOR]
+[COLOR:white]> User: 9[/COLOR]
+[17:12:41] [COLOR:blue]What is 2+2?[/COLOR]
+
+[COLOR:white]> User: 9[/COLOR]
+[17:12:47] [COLOR:red]Incorrect. The answer is 4.[/COLOR]
+[17:13:07] [COLOR:blue]What is 2+2?[/COLOR]
+
+[COLOR:white]> User: 9[/COLOR]
+[17:13:12] [COLOR:red]Incorrect. The answer is 4.[/COLOR]
+[17:13:27] [COLOR:blue]What is 2+2?[/COLOR]
 
 [COLOR:white]> User: 4[/COLOR]
-[11:20:42] [COLOR:green]Correct![/COLOR]
+[17:13:33] [COLOR:green]Correct![/COLOR]
+[17:13:36] [COLOR:blue]What is 2+2?[/COLOR]
+
+[COLOR:white]> User: 3[/COLOR]
+[17:13:40] [COLOR:red]Incorrect. The answer wwis 4.[/COLOR]
