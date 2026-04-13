@@ -1,6 +1,12 @@
 # UtilHub - Central Utility Dashboard
 # UTILITHUB
 ![UtilHub Logo](logo.png)
+
+
+
+
+
+
 A GUI application for running utility scripts with a terminal-like output interface.
 
 ## Features
@@ -33,28 +39,3 @@ A GUI application for running utility scripts with a terminal-like output interf
 
 Scripts output colored messages using `hub_print(text, color)` where color can be "red", "green", "yellow", "blue", or "white".
 
-## Script Development
-
-Scripts should use `hub_print(text, color)` from `hub_api.py` to output to the terminal.
-
-Available colors: "red", "green", "yellow", "blue", "white"
-
-Example:
-```python
-from hub_api import hub_print
-
-hub_print("Hello World!", "green")
-```
-
-## Project Structure
-
-- `main.py`: Entry point
-- `gui/main_window.py`: Main GUI application
-- `core/file_manager.py`: Script listing functionality
-- `core/executor.py`: Script execution (legacy)
-- `hub_api.py`: Logging API for scripts
-- `scripts/`: Directory containing utility scripts
-
-## License
-
-GNU GPL v3
